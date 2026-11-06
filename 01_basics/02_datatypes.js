@@ -7,3 +7,5 @@ symbol=> unique
 Object 
 */
 console.log(typeof "Grook");
+
+console.log(typeof null);
